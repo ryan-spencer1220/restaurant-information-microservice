@@ -1,6 +1,6 @@
 # Restaurant Details Microservice
 
-This repository contains an AWS Lambda function that retrieves details of a restaurant using the Google Places API.
+This repository contains an AWS Lambda function that retrieves details of a restaurant using the Google Places API. The API accepts a single string as a query parameter.
 
 ## Structure
 
